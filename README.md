@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Himanshusinghdev1
-- 👀 I’m interested in AI technologies
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Himanshusinghdev1, an AI enthusiast turning caffeine into code! ☕💻
+- 👀 I’m fascinated by **AI technologies**, especially machine learning, deep learning and NLP 🤖✨
+- 🌱 I’m currently learning **how to make AI models smarter than me 🧠🚀**
+- 💞️ I’m looking to collaborate on **AI-driven projects that make an impact! 🌍📊**
+- 📫 How to reach me? Ping me on [LinkedIn Profile](www.linkedin.com/in/himanshu-singh07 "Click to visit my LinkedIn")
+ or check my [GitHub Profile](https://github.com/Himanshusinghdev1 "Click to visit my GitHub") here 📩🔗
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
